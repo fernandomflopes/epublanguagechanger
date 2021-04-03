@@ -1,6 +1,6 @@
 # Conversor de idomas para arquivos epub 
 
-Este script resolve o problema da leitura em voz alta do leitor de epubs Google Books Reader. A leitura em voz alta do google reader nao possui opcao para selecionar o idioma que sera lido, entao o usuario deve realizar a alteracao do idioma manualmente em um arquivo de metadados interno do epub. Apesar de simples, esta alteracao nescessita de alguns passos e acaba se tornando uma tarefa tediosa. Este script automatiza estes passos sendo necessario apenas especificar o caminho do epub e o idioma a ser alterado.
+Este script resolve o problema da leitura em voz alta do leitor de epubs Google Books Reader. A leitura em voz alta do google reader não possui opção de selecionar o idioma que será lido, então o usuario deve realizar a alteração do idioma manualmente em um arquivo de metadados interno do epub. Apesar de simples, esta alteração nescessita de alguns passos e acaba sendo uma tarefa tediosa. Este script automatiza estes passos sendo necessario apenas especificar o caminho do epub e o idioma a ser alterado.
 
 # Como usar
 ```
